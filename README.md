@@ -7,5 +7,5 @@
 
 </div>
 <p align="center">
-  <img src="https://i.postimg.cc/0yMGQS4R/IMG-8581.jpg" alt="This User Loves My Melody" width="60%" />
+  <img src="https://i.postimg.cc/0yMGQS4R/IMG-8581.jpg" alt="This User Loves My Melody" width="80%" />
 </p>
