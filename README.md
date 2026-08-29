@@ -3,6 +3,6 @@
 </p>
 <div align="center">
 
-꒰ ᩧ 𓈒 keeping my pockets full of little things ⁄⁄͈ . ᴗ͈)
+꒰ ᩧ 𓈒 𝑘𝑒𝑒𝑝𝑖𝑛𝑔 𝑚𝑦 𝑝𝑜𝑐𝑘𝑒𝑡𝑠 𝑓𝑢𝑙𝑙 𝑜𝑓 𝑙𝑖𝑡𝑡𝑙𝑒 𝑡ℎ𝑖𝑛𝑔𝑠  ⁄⁄͈ . ᴗ͈)
 
 </div>
