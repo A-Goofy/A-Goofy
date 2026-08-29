@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/BZ2Pfxm1/IMG-8592.png" alt="Mini Icon" width="38" height="38" />
+  <img src="https://i.postimg.cc/BZ2Pfxm1/IMG-8592.png" alt="Mini Icon" width="38" />
 </p>
