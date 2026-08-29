@@ -49,3 +49,7 @@ Extra :
 C+H‘ I’m friendly // I’m always AFK, so whisper me or find me on Discord ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ
 <p align="center">
   <img src="https://i.ibb.co/3s8pQ9z/pink-line.png" width="100%" height="3px" />
+</p>
+<p align="center">
+  <img src="https://i.postimg.cc/Z5rhTx9K/F8344BEF-88D7-4749-AD54-C0116A03EC29.gif" width="100%" />
+</p>
