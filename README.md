@@ -3,7 +3,11 @@
 </p>
 <div align="center">
 
-  ࣪   ۫𓂅  𝒘𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒍𝒊𝒕𝒕𝒍𝒆 𝒄𝒐𝒓𝒏𝒆𝒓 . ⟢
+  ࣪   ۫𓂅  <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F79DD2&width=700&center=true&vCenter=true&lines=%F0%9D%92%98%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%84%F0%9D%92%90%F0%9D%92%8E%F0%9D%92%86+%F0%9D%92%95%F0%9D%92%90+%F0%9D%92%8E%F0%9D%92%9A+%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%95%F0%9D%92%8D%F0%9D%92%86+%F0%9D%92%84%F0%9D%92%90%F0%9D%92%93%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%93">
+
+</div> . ⟢
 <br>
 
 ⋅.˳˳.⋅ॱ˙ ˙ॱ⋅.˳˳.⋅ॱ˙ ˙ॱᐧ.˳˳.⋅ 
