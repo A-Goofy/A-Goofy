@@ -3,9 +3,6 @@
     <img src="https://i.postimg.cc/QdtsY7ym/IMG-9209.jpg" alt="IMG-9209" style="max-width: 100%; width: 100%;">
   </a>
 </p>
-
-<br>
-
 <pre align="center">
 　 自　他
 　 分　下
