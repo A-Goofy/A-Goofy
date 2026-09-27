@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://postimg.cc/xcWWcXYN">
-    <img src="https://i.postimg.cc/QdtsY7ym/IMG-9209.jpg" alt="IMG-9209" style="max-width: 100%; width: 100%;">
-  </a>
+  <img src="https://i.postimg.cc/FzF0qRzc/IMG-9244.png" width="200%" />
 </p>
+  </a>
 <pre align="center">
 　 自　他
 　 分　下
