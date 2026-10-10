@@ -1,7 +1,11 @@
 <p align="center">
-  <img src="https://i.postimg.cc/FzF0qRzc/IMG-9244.png" width="200%" />
-</p>
+  <a href="https://postimg.cc/zLsHXdR1">
+    <img src="https://i.postimg.cc/sXXYmqj1/8EAF5E2F-AB1A-473E-8D21-9834C1732D85.png" width="100%" alt="8EAF5E2F-AB1A-473E-8D21-9834C1732D85.png">
   </a>
+</p>
+<div align="center">
+
+  ࣪   ۫𓂅 
 <pre align="center">
 　 自　他
 　 分　下
