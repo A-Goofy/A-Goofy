@@ -20,9 +20,5 @@
 ― 爆豪勝己 ―
 </pre>
 
-<p align="center">
-  <a href="https://postimg.cc/B8MNkB5L">
-    <img src="https://i.postimg.cc/3RH6yLdB/IMG-9220.jpg" alt="Bakugo Katsuki" width="400">
-  </a>
-</p>
 
+[![IMG-9763.png](https://i.postimg.cc/59C1Gq3y/IMG-9763.png)](https://postimg.cc/4nsrHcjR)
