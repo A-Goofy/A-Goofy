@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://postimg.cc/zLsHXdR1">
-    <img src="https://i.postimg.cc/sXXYmqj1/8EAF5E2F-AB1A-473E-8D21-9834C1732D85.png" width="500px" alt="8EAF5E2F-AB1A-473E-8D21-9834C1732D85.png">
+  <a href="https://postimg.cc/zLsHXdR1" target="_blank">
+    <img src="https://i.postimg.cc/sXXYmqj1/8EAF5E2F-AB1A-473E-8D21-9834C1732D85.png" width="500px" alt="image">
   </a>
 </p>
+
 
 <div align="center">
 
