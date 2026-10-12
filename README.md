@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://img.shields.io/badge/view-568-E6F7FF" alt="View Badge">
+</p>
+
+
+
 <p align="center">
   <a href="https://postimg.cc/wR5pnYPg" target="_blank">
     <img src="https://i.postimg.cc/6qgp29f2/IMG-9787.png" width="500px" alt="IMG-9787.png">
