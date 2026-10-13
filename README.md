@@ -11,13 +11,15 @@
   </a>
 </p>
 
-<div align="center">
 <p align="center">
   <a href="https://guns.lol/iris.x">guns</a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://zyo.lol/nyelune">zyo</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.roblox.com/vi/users/5061936624/profile">rb</a>
 </p>
 
+<p align="center">
   ࣪   ۫𓂅 
 <pre align="center">
 　 自　他
