@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/view-568-E6F7FF" alt="View Badge">
+  <img src="https://img.shields.io/badge/View-568-E6F7FF" alt="View Badge">
 </p>
 
 
