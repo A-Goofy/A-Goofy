@@ -12,11 +12,11 @@
 </p>
 
 <p align="center">
-  <a href="https://guns.lol/iris.x">guns</a>
+  <a href="https://guns.lol/iris.x">𝑔𝑢𝑛𝑠</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://zyo.lol/nyelune">zyo</a>
+  <a href="https://zyo.lol/nyelune">𝑧𝑦𝑜</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.roblox.com/vi/users/5061936624/profile">rb</a>
+  <a href="https://www.roblox.com/vi/users/5061936624/profile">𝑟𝑏</a>
 </p>
 
 <p align="center">
