@@ -12,6 +12,11 @@
 </p>
 
 <div align="center">
+<p align="center">
+  <a href="https://guns.lol/iris.x">guns</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://zyo.lol/nyelune">zyo</a>
+</p>
 
   ࣪   ۫𓂅 
 <pre align="center">
