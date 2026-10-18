@@ -42,12 +42,23 @@
 <div align="center">
 
   ࣪   ۫𓂅 
+
 <p align="center">
   <a href="https://postimg.cc/HV2m2HXF" target="_blank">
     <img src="https://i.postimg.cc/3xMw3xRr/DC1FE328-D7AC-41C1-A2B5-5C5F1FA24E93.gif" width="500px" alt="DC1FE328-D7AC-41C1-A2B5-5C5F1FA24E93.gif">
   </a>
 </p>
 
+<hr>
+<p align="center">
+  <i>a little gift from my bestie ♡</i>
+  <br><br>
+  <a href="https://postimg.cc/06CcpX0Z">
+    <img src="https://i.postimg.cc/Dz9H3tJV/IMG-9958.png" alt="a little gift from my bestie" width="400">
+  </a>
+</p>
+
+<hr>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wgmr2vtync7a2llbou42etvqnm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wgmr2vtync7a2llbou42etvqnm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false">
