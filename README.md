@@ -57,6 +57,16 @@
     <img src="https://i.postimg.cc/Dz9H3tJV/IMG-9958.png" alt="a little gift from my bestie" width="400">
   </a>
 </p>
+<p align="center">
+  <a href="https://postimg.cc/hh2sNQhY" target="_blank">
+    <img src="https://i.postimg.cc/28Dtb4YC/IMG-0405.png" width="500px" alt="IMG-0405.png">
+  </a>
+</p>
+<p align="center">
+  <a href="https://postimg.cc/Q947Y5S7" target="_blank">
+    <img src="https://i.postimg.cc/L5RVX31x/att-Xlkprcm16D9Ti-QQu-V-Up2u1AIg-RZ2Oj-G0Z4XB0b-Qy-Fg.jpg" width="500px" alt="att-Xlkprcm16D9Ti-QQu-V-Up2u1AIg-RZ2Oj-G0Z4XB0b-Qy-Fg.jpg">
+  </a>
+</p>
 
 <hr>
 <p align="center">
