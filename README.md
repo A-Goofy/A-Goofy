@@ -51,8 +51,11 @@
 
 <hr>
 <p align="center">
-  <i>a little gift from my bestie ♡</i>
-  <br><br>
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=25&pause=1000&color=CCDDF6&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Little+gifts+from+my+besties+%E2%99%A1" alt="Typing SVG">
+  </a>
+</p>
+
   <a href="https://postimg.cc/06CcpX0Z">
     <img src="https://i.postimg.cc/Dz9H3tJV/IMG-9958.png" alt="a little gift from my bestie" width="400">
   </a>
